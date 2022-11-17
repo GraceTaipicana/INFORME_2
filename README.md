@@ -220,9 +220,10 @@ VIDEO
 ---------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
 
-Se establece que gracias al análisis y desarrollo de los temas estudiados podemos denotar la importancia de esta notación, métodos, reconocer la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas y los conceptos relacionados a la electrónica fundamental tambien la aplicacion de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
--------------------------------------------------------------------------------------------------------------------------------------------
-BIBLIOGRAFÍA
+Se establece que gracias al análisis y desarrollo de los temas estudiados podemos denotar la importancia de esta notación, métodos, reconocer la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas y los conceptos relacionados a la electrónica fundamental tambien la aplicacion de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia. 
+
+------------------------------------------------------------------------------------------------------------------------------------------- 
+BIBLIOGRAFÍA 
 
 Floyd, Thomas.L. (sf). Floyd Octava Edición principios de circuitos eléctricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20El electronicos%208va.edicion-%20Floyd.pdf
 
