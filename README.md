@@ -395,6 +395,8 @@ Psalida= Eficiencia x 0.85
 
 VIDEO
 
+https://share.vidyard.com/watch/eG6FiCTNLN4mbLpabQPGQZ?
+
 ---------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
 
