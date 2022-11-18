@@ -248,7 +248,7 @@ EJERCICIOS CAPITULO 4
 
 2)Demuestre que hay 3.6x106 joules en un kilowatt-hora
 
-![image](https://user-images.githubusercontent.com/116777044/202597126-6fba9bc7-2316-4c9c-82c1-d473b566f32b.png)
+P=W/t -------> 1kW=1000J
 
 ![image](https://user-images.githubusercontent.com/116777044/202597270-ffa5d25a-0aea-4153-9d26-8f2ff8a52f26.png)
 
